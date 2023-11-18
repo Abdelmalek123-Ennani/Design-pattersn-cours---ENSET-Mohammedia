@@ -1,6 +1,6 @@
 # My Awesome Project
 
-Welcome to my project! This repository contains code and resources related to my learning about design patterns at ENSET Mohammedia.
+Welcome to the Design Patterns Repository for the course at ENSET Mohammedia School! This repository serves as a comprehensive resource for understanding and implementing design patterns in software development.
 
 ## Contents
 
