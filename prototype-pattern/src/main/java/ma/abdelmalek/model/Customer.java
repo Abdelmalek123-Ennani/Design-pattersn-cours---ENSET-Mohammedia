@@ -1,6 +1,6 @@
 package ma.abdelmalek.model;
 
-public class Customer {
+public class Customer implements Cloneable{
     private Long id;
     private String name;
 
@@ -34,5 +34,10 @@ public class Customer {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
+    }
+
+    @Override
+    protected Customer clone() throws CloneNotSupportedException {
+        return (Customer) super.clone();
     }
 }
