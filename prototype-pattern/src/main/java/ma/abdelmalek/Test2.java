@@ -27,5 +27,11 @@ public class Test2 {
 
         System.out.println(bankAccount);
         System.out.println(bankAccount2);
+
+
+        System.out.println("==================");
+        bankAccount.getCustomer().setName("Karim");
+        System.out.println("Account 1 : " + bankAccount);
+        System.out.println("Account 2 : " + bankAccount2);
     }
 }
