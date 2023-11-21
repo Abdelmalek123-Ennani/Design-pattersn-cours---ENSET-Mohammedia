@@ -57,8 +57,6 @@ public class BankAccount implements Cloneable{
         this.customer = customer;
     }
 
-
-
     public BankAccount() {
     }
 
