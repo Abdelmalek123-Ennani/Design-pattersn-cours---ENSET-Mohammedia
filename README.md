@@ -11,3 +11,7 @@
 
 <h3>Why Design Patterns Matter</h3>
 <p>Understanding and applying design patterns can significantly improve the quality of your software. They provide a common vocabulary for developers to communicate about software designs and offer proven solutions to common challenges. This repository serves as a practical guide to various design patterns, demonstrating their usage in real-world scenarios.</p>
+
+
+## Table of Contents
+
