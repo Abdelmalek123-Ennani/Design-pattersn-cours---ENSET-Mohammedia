@@ -12,5 +12,20 @@
 <h3>Why Design Patterns Matter</h3>
 <p>Understanding and applying design patterns can significantly improve the quality of your software. They provide a common vocabulary for developers to communicate about software designs and offer proven solutions to common challenges. This repository serves as a practical guide to various design patterns, demonstrating their usage in real-world scenarios.</p>
 
+## My List of patterns
+
+- [Adapter pattern](https://www.example.com/link1](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/adapter-pattern)https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/adapter-pattern) :link:
+- [Builder Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/builder-pattern) :link:
+- [Composite Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/composite-pattern) :link:
+- [Decorator Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/decorator-pattern) :link:
+- [Observer Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/observer-pattern) :link:
+- [Prototype Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/prototype-pattern) :link:
+- [Proxy Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/proxy-pattern) :link:
+- [Singleton Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/singleton-pattern) :link:
+- [State Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/state-pattern) :link:
+- [Strategy Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/strategy-pattern) :link:
+- [Template Pattern](https://github.com/Abdelmalek123-Ennani/Design-pattersn-cours---ENSET-Mohammedia/tree/master/template-pattern) :link:
+
+
 
 
